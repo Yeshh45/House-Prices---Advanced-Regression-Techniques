@@ -1,6 +1,4 @@
 **House-Prices---Advanced-Regression-Techniques**
-Here is a sample README file for your project, based on the provided notebook. You can customize it further according to your preferences.
-
 **House Prices Prediction in Iowa**
 
 This project is a submission for the Kaggle competition "House Prices: Advanced Regression Techniques." The goal is to predict the final price of each home in Ames, Iowa.
